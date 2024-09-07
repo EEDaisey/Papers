@@ -16,7 +16,7 @@ My research interests in set theory and functional analysis are closely aligned 
 # AI/ML
 ... ...
 
-# Monte Carlo
+# Mathematics
 * Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
 
 # Textbooks
