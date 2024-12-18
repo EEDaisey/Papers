@@ -13,7 +13,7 @@ Here are some papers other individuals involved in computer science research & s
 ... ...
 
 # Data Science & AI/ML
-* H. Garcia-Molina and Kenneth Salem. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
+* H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
   
 # Mathematics
 * Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
