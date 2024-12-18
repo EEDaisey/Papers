@@ -1,4 +1,4 @@
-My research interests in set theory and functional analysis are closely aligned with my academic background in applied and computational mathematics, where I focused on operations research, probability and statistics, and modeling and simulation. These foundational areas provide the theoretical underpinning for my exploration of complex mathematical concepts. Similarly, my focus on computer systems engineering -- including compilers, distributed systems, high-performance computing, and reliable secure systems -- is rooted in my academic studies in computer science, where I concentrated on data science, artificial intelligence, and cloud computing. This combination of practical and theoretical knowledge supports my work in developing advanced software solutions (particularly math-heavy foundation libraries) and exploring innovative computing architectures like neuromorphic and quantum computing. Here are some papers other scholars may enjoy!
+Here are some papers other individuals involved in computer science research & software development may enjoy!
 
 # Programming Languages
 * B. Stroustrup. 1978. On Unifying Module Interfaces. ACM Operating Systems Review 12, 1 (January 1978), 90–98.
@@ -17,6 +17,3 @@ My research interests in set theory and functional analysis are closely aligned 
   
 # Mathematics
 * Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
-
-# Textbooks
-... ...
