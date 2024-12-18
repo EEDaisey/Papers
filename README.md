@@ -12,9 +12,9 @@ My research interests in set theory and functional analysis are closely aligned 
 # Systems
 ... ...
 
-# AI/ML
-... ...
-
+# Data Science & AI/ML
+* H. Garcia-Molina and Kenneth Salem. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
+  
 # Mathematics
 * Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
 
