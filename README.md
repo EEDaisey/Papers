@@ -17,3 +17,6 @@ Here are some papers other individuals involved in computer science research & s
   
 # Mathematics
 * Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
+* M. Krawczyk.  The Search for Signicance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature. 2015.
+* S. Greeland.  Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. 2016.
+* J. Ioannidis.  The Proposal to Lower P Value Thresholds to .005. 2018.
