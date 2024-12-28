@@ -15,8 +15,9 @@ Here are some papers other individuals involved in computer science research & s
 # Data Science & AI/ML
 * H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
   
-# Monte Carlo Methods
-* Metropolis, N. and Ulam, S.: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
+# Modeling & Simulations: PRNG, Monte Carlo Methods
+* M. Matsumoto and T. Nishimura.  Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator. ACM Trans. Model. Comput. Simul. 8, 1 (Jan. 1998), 3–30.
+* N. Metropolis and S. Ulam: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
 
 # Statistics
 * M. Krawczyk.  The Search for Signicance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature. 2015.
