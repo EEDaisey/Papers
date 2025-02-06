@@ -13,15 +13,16 @@ Here are some papers other individuals involved in computer science research & s
 ... ...
 
 # Data Science & AI/ML
+* Y. LeCun. 2015. Deep Learning Review Paper.
 * H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
   
 # Modeling & Simulations: PRNG, Monte Carlo Methods
-* M. Matsumoto and T. Nishimura.  Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator. ACM Trans. Model. Comput. Simul. 8, 1 (Jan. 1998), 3–30.
+* M. Matsumoto and T. Nishimura. Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator. ACM Trans. Model. Comput. Simul. 8, 1 (Jan. 1998), 3–30.
 * N. Metropolis and S. Ulam: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
 
 # Statistics
-* M. Krawczyk.  The Search for Signicance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature. 2015.
-* M. Baker.  1,500 scientists lift the lid on reproducibility.  Nature 533, 452–454.  2016.
-* S. Greeland.  Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. 2016.
-* J. Ioannidis.  The Proposal to Lower P Value Thresholds to .005. 2018.
+* M. Krawczyk. The Search for Signicance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature. 2015.
+* M. Baker. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454.  2016.
+* S. Greeland. Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. 2016.
+* J. Ioannidis. The Proposal to Lower P Value Thresholds to .005. 2018.
 
