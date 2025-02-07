@@ -8,17 +8,18 @@ Here are some papers other individuals involved in computer science research & s
 * L. V. Rose and B. Stroustrup. 1985. Complex Arithmetic in C++. AT&T C++ Translator Release Notes (November 1985).
 * B. Stroustrup. 1986. An Overview of C++. ACM Sigplan Notices, Special Issue (October 1986), 7–18.
 * B. Stroustrup. 1986. What is Object-Oriented Programming? In Proc. 14th ASU Conference, 69–84.
+* B. Stroustrup. 1988. Parameterized Types for C++.
 
 # Systems
 ... ...
 
 # Data Science & AI/ML
-* Y. LeCun. 2015. Deep Learning Review Paper.
 * H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
+* Y. LeCun. 2015. Deep Learning Review Paper.
   
 # Modeling & Simulations: PRNG, Monte Carlo Methods
-* M. Matsumoto and T. Nishimura. Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator. ACM Trans. Model. Comput. Simul. 8, 1 (Jan. 1998), 3–30.
 * N. Metropolis and S. Ulam: The Monte Carlo Method. Journal of the American Statistical Association, vol 44, pp 335-341. 1949.
+* M. Matsumoto and T. Nishimura. Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator. ACM Trans. Model. Comput. Simul. 8, 1 (Jan. 1998), 3–30.
 
 # Statistics
 * M. Krawczyk. The Search for Signicance: A Few Peculiarities in the Distribution of P Values in Experimental Psychology Literature. 2015.
